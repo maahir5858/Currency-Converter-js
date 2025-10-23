@@ -18,14 +18,13 @@ The app features a simple and clean **UI**, making it easy for users to enter va
 - **Live Exchange Rates**: Fetches up-to-date exchange rates from a public API.
 - **Currency Selection**: Allows users to select from a variety of currencies for conversion.
 - **Instant Conversion**: Automatically calculates the converted amount as users input values.
-- **Responsive Design**: Works seamlessly on both desktop and mobile devices.
-- **Clean and Intuitive UI**: Simple design that is easy to use.
+- **Clean and Intuitive UI**: Simple design that is easy to use & work around.
 
 ## 📱 Project Preview
 <img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/79b7233c-12a9-4682-8ba6-54f443abf689" />
 
 ## 🎥 Project Demo
-[Watch the Demo](https://github.com/user-attachments/assets/dac7c79a-45a5-4d18-8452-e7e0e2d1ad23)
+https://github.com/user-attachments/assets/6bdb7c43-ea97-4a7c-820d-ba1c53d9858f
 
 ***
 
