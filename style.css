@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* height: 100vh; */
+    /* width: 100vw; */
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #016B61;
+    font-family: poppins;
+}
+
+#main {
+    background-color: white;
+    padding: 3rem;
+    border-radius: 2rem;
+}
+
+#main h1 {
+    font-weight: 700;
+    font-size: 2.3rem;
+    color: #674d4d;
+}
+
+#amount p {
+    font-size: 1.1rem;
+    font-style: italic;
+    margin: 0.7rem 0;
+}
+
+#main input, select, button {
+    width: 100%;
+    border: none;
+    outline: none;
+}
+
+#amount input {
+    font-size: 1.1rem;
+    padding: 1rem 1.5rem;
+    border: 1px solid #cbcbcb;
+    border-radius: 0.75rem;
+}
+
+#dropdown {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#dropdown>div p{
+    margin: 1.4rem 0 0.5rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+#select-container {
+    padding: 0 0.5rem;
+    border: 1px solid #cbcbcb;
+    border-radius: 0.75rem;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+
+#dropdown>div img {
+    width: 3rem;
+}
+
+#dropdown i {
+    margin-top: 3rem;
+    scale: 1.5;
+    cursor: pointer;
+}
+
+#roe {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-style: italic;
+    margin: 2rem 0;
+}
+
+button {
+    font-size: 1.5rem;
+    padding: 1rem;
+    background-color: #674d4d;
+    border-radius: 0.75rem;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #432323;
+}
